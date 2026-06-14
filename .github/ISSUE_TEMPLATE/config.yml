@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a question (Q&A)
+    url: https://github.com/ZhyJenae/zhyjen-updates/discussions/categories/q-a
+    about: Use Q&A for "how do I…" questions about using ZhyJen.
+  - name: 🛣️ Suggest a feature (Roadmap)
+    url: https://github.com/ZhyJenae/zhyjen-updates/discussions/categories/roadmap
+    about: Use Roadmap to suggest features and vote on what we should build next.
+  - name: ✨ Share what you built (Show & tell)
+    url: https://github.com/ZhyJenae/zhyjen-updates/discussions/categories/show-and-tell
+    about: Use Show & tell to share a finished activity or project with the community.
